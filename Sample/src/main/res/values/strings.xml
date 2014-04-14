@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThemeSwitchSample</string>
+    <string name="change_button">Change Theme</string>
+    <string name="change_content">Tab to \nChange</string>
+</resources>

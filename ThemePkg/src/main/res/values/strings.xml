@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThemePkg</string>
+    <string name="change_button">Return</string>
+    <string name="change_content">Tab to \nReturn</string>
+
+</resources>
